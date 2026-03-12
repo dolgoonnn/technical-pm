@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "technical-pm",
+  "version": "1.0.0",
+  "description": "Code-aware PM skills for Claude Code. 8 skills that read your codebase to produce technically-grounded product artifacts — PRDs, estimates, postmortems, release notes, and more.",
+  "owner": {
+    "name": "dolgoonnn",
+    "url": "https://github.com/dolgoonnn"
+  },
+  "plugins": [
+    {
+      "name": "technical-pm",
+      "description": "Code-aware PM skills: architecture review, technical PRDs, complexity estimation, bug triage, release notes, dependency audit, migration planning, and incident postmortems — all grounded in actual codebase analysis.",
+      "source": "./",
+      "category": "product-management"
+    }
+  ]
+}

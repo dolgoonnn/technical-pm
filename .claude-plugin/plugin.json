@@ -1,0 +1,24 @@
+{
+  "name": "technical-pm",
+  "version": "1.0.0",
+  "description": "Code-aware PM skills for Claude Code. 8 skills that read your codebase to produce technically-grounded product artifacts — PRDs, estimates, postmortems, release notes, and more.",
+  "author": {
+    "name": "dolgoonnn",
+    "url": "https://github.com/dolgoonnn"
+  },
+  "keywords": [
+    "product-management",
+    "technical-pm",
+    "prd",
+    "architecture-review",
+    "complexity-estimation",
+    "release-notes",
+    "dependency-audit",
+    "migration-planning",
+    "incident-postmortem",
+    "bug-triage",
+    "code-aware"
+  ],
+  "homepage": "https://github.com/dolgoonnn/technical-pm",
+  "license": "MIT"
+}
